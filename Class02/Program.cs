@@ -6,33 +6,8 @@
     {
       //Write a function called insertShiftArray which takes in an array and a value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle index.
       int[] arr = {42,8,15,23,42};
-      InsertShiftArray(arr, 16);
+      ProgramTwo.InsertShiftArray(arr, 16);
     }
-    static int[] InsertShiftArray(int[] arr, int valueToBeAdded)
-    {
-      //TAKE TWO
-      // 1. find middle of the array
-      int middle = (arr.Length) / 2;
-      Console.WriteLine($"Middle is: {middle}");
-      Console.WriteLine(5/2);
-
-      // 2. create new array that's 1+ the size of the original
-      int[] newArr = new int[arr.Length + 1];
-
-      // 3. loop through old arr and input values until we get to the middle
-      for(int i = 0; i < middle; i++)
-        newArr[i] = arr[i];
-      
-      // 4. add item to middle
-      newArr[middle] = valueToBeAdded;
-
-      // 5. input the remaining values
-      for(int i = middle + 1; i <= arr.Length; i++)
-        newArr[i] = arr[i - 1];
-      
-      foreach(int num in newArr)
-        Console.WriteLine(num);
-      return newArr;
-    }
+    
   }
 }

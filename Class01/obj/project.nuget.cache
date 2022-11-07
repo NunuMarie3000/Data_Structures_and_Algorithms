@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8CWgPqkJz6exK9ZNqrlWspg7Oq0Jb8tBwBIPlyBAlnZPE8TMwX7UChbqafaiX2eQk7N+Nvp1fF5iRFvl9K8DiQ==",
+  "dgSpecHash": "nMTsSxEi9vSapRhzzMwOs7kfQc54mxqNC0e95c+BUtfk62I7D9dQpUtG4Pjmce2r4qm3Mytohjnt9fkwQgzKWA==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
+  "projectFilePath": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class01/Class01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -4,10 +4,9 @@
   {
     static void Main( string[] args )
     {
-      int[] myArr = { 1, 2, 3 };
+      int[] myArr = { 89, 2354, 3546, 23, 10, -923, 823, -12 };
       Class01.Reverse.Rev(myArr);
 
-      Console.WriteLine("hey");
     }
   }
 }

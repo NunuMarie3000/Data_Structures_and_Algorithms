@@ -8,32 +8,28 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vmari\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/nunumarie3000/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
+      "projectUniqueName": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class01/Class01.csproj",
       "projectName": "Class01",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
-      "packagesPath": "C:\\Users\\vmari\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\obj\\",
+      "projectPath": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class01/Class01.csproj",
+      "packagesPath": "/home/nunumarie3000/.nuget/packages/",
+      "outputPath": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class01/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vmari\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/nunumarie3000/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
