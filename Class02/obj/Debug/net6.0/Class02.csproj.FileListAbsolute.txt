@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\bin\Debug\net6.0\Class02.exe
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\bin\Debug\net6.0\Class02.deps.json
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\bin\Debug\net6.0\Class02.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\bin\Debug\net6.0\Class02.dll
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\bin\Debug\net6.0\Class02.pdb
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.dll
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\refint\Class02.dll
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.pdb
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\Class02.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallengesRemix\Class02\obj\Debug\net6.0\ref\Class02.dll

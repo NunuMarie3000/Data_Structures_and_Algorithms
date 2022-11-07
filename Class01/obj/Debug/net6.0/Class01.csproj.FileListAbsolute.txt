@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\bin\Debug\net6.0\Class01.exe
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\bin\Debug\net6.0\Class01.deps.json
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\bin\Debug\net6.0\Class01.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\bin\Debug\net6.0\Class01.dll
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\bin\Debug\net6.0\Class01.pdb
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.dll
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\refint\Class01.dll
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.pdb
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\Class01.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\nunumarie3000\projects\courses\Code401\CodeChallenges_Data-Structures-and-Algorithms\Class01\obj\Debug\net6.0\ref\Class01.dll
