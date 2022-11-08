@@ -57,9 +57,12 @@ namespace Class05
       public void Insert(Node value)
       {
         // Adds a new node with that value to the head of the list with an O(1) Time performance.
-        ThisLinkedList.Add(value);
-        if (ThisLinkedList.Count() <= 1)
-          Head = ThisLinkedList.ElementAt(0);
+        List<Node> replacement = new List<Node>();
+        replacement.Add(value);
+        foreach(var i in ThisLinkedList)
+          replacement.Add(i);
+        ThisLinkedList = replacement;
+        Head = ThisLinkedList.ElementAt(0);
       }
 
       public bool Includes(int value)
