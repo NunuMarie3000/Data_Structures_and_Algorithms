@@ -27,8 +27,6 @@
 
 ## Approach & Efficiency
 
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-
 First I created all my classes with empty methods as per the instructions.
 
 - Node class
