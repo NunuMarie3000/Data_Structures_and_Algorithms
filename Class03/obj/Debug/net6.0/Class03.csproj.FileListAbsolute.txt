@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/bin/Debug/net6.0/Class03
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/bin/Debug/net6.0/Class03.deps.json
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/bin/Debug/net6.0/Class03.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/bin/Debug/net6.0/Class03.dll
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/bin/Debug/net6.0/Class03.pdb
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.dll
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/refint/Class03.dll
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.pdb
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/Class03.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class03/obj/Debug/net6.0/ref/Class03.dll
