@@ -17,7 +17,3 @@ What would you need to change if the array contained objects (sorted on a given 
 ![Whiteboard page 1](./whiteboard_codeChallenge03.jpg)
 
 ## Approach and Efficiency
-
-
-
-
