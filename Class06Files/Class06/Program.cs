@@ -54,10 +54,12 @@ namespace Class06
       public void Insert(int value)
       {
         // Adds a new node with that value to the head of the list with an O(1) Time performance.
-        Node newValue = new Node(value);
-        ThisLinkedList.Insert(0, newValue);
-        Head = newValue;
-        // if the above isn't allowed, i'd have to create a new list, iterate through ThisLinkedList, and readd values with the input value as the first element
+        List<Node> replacement = new List<Node>();
+        replacement.Add(value);
+        foreach(var i in ThisLinkedList)
+          replacement.Add(i);
+        ThisLinkedList = replacement;
+        Head = ThisLinkedList.ElementAt(0);
       }
 
       public bool Includes(int value)
