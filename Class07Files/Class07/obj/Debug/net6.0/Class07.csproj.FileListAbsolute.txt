@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/bin/Debug/net6.0/Class07
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/bin/Debug/net6.0/Class07.deps.json
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/bin/Debug/net6.0/Class07.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/bin/Debug/net6.0/Class07.dll
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/bin/Debug/net6.0/Class07.pdb
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.dll
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/refint/Class07.dll
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.pdb
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/Class07.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class07Files/Class07/obj/Debug/net6.0/ref/Class07.dll
