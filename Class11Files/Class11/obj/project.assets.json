@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11/Class11.csproj",
+      "projectUniqueName": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class11Files/Class11/Class11.csproj",
       "projectName": "Class11",
-      "projectPath": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11/Class11.csproj",
+      "projectPath": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class11Files/Class11/Class11.csproj",
       "packagesPath": "/home/nunumarie3000/.nuget/packages/",
-      "outputPath": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11/obj/",
+      "outputPath": "/home/nunumarie3000/projects/courses/Code401/Data_Structures_and_Algorithms/Class11Files/Class11/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

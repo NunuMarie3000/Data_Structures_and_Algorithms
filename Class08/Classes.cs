@@ -110,5 +110,25 @@ namespace Class08.Classes
         }
       }
     }
+
+    public void ZipLists(LinkedListClass one, LinkedListClass two)
+    {
+      //Write a function called zip lists
+      //Arguments: 2 linked lists
+      //Return: New Linked List, zipped as noted below
+      //Zip the two linked lists together into one so that the nodes alternate between the two lists and return a reference to the the zipped list.
+      //Try and keep additional space down to O(1)
+      //You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges.
+
+      // i would create a new list
+      // use a for loop, let i = 0, i < one.Count -1 + two.Count -1, i++
+      // newList.Add(one[i])
+      // newlist.Add(two[i])
+      
+      // then, did another loop, 
+      // Head = newlist[0];
+      // current = Head
+      // do for loop to iterate through newlist and assign current.next, etc. 
+    }
   }
 }

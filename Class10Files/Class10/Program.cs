@@ -19,16 +19,16 @@ namespace Class10
       Console.WriteLine(myQueue.Front.Value);
       Console.WriteLine(myQueue.Front.Next.Value);
       Console.WriteLine();
-      // Console.WriteLine(myQueue.Peek().Value);
-      // myQueue.Dequeue();
-      // Console.WriteLine();
-      // Console.WriteLine(myQueue.Peek().Value);
-      // Console.WriteLine(myQueue.Top.Next.Value);
-      // myQueue.Dequeue();
-      // Console.WriteLine();
-      // Console.WriteLine(myQueue.Peek().Value);
-      // Console.WriteLine(myQueue.Top.Value);
-      // Console.WriteLine(myQueue.Top.Next.Value);
+      Console.WriteLine(myQueue.Peek().Value);
+      myQueue.Dequeue();
+      Console.WriteLine();
+      Console.WriteLine(myQueue.Peek().Value);
+      Console.WriteLine(myQueue.Front.Next.Value);
+      myQueue.Dequeue();
+      Console.WriteLine();
+      Console.WriteLine(myQueue.Peek().Value);
+      Console.WriteLine(myQueue.Front.Value);
+      Console.WriteLine(myQueue.Front.Next.Value);
 
 
 
